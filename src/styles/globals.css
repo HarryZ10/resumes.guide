@@ -1,0 +1,15 @@
+/* globals styles */
+
+@font-face {
+  font-family: 'RadioCanadaBig';
+  font-style: normal;
+  font-weight: 100;
+  src: url('./fonts/RadioCanadaBig-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'RadioCanadaBigBold';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./fonts/RadioCanadaBig-Bold.ttf') format('truetype');
+}
